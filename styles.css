@@ -23,7 +23,6 @@ ul {
     list-style-type:square;
     background-color: rgb(213, 255, 231);
     padding: 20px;
-    opacity: 0.8;
 }
 li {
   color: darkblue;
