@@ -20,10 +20,9 @@ div {
 }
 
 ul {
-    list-style-type:square;
+   list-style-type:square;
     background-color: rgb(153, 240, 251);
     padding: 20px;
-    opacity: 1;
 }
 li {
   color: darkblue;
